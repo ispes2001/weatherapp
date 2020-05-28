@@ -9,5 +9,6 @@
             "server": "localhost",
             "username": "postgres"
         }
-    ]
+    ],
+    "python.pythonPath": "C:\\Users\\ispes\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe"
 }
