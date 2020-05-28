@@ -1,0 +1,12 @@
+.container{
+    background-color: slategrey;
+}
+
+.container, h1 {
+    text-shadow: tomato;
+}
+.box {
+    background-color: teal;
+    padding: 0.5%;
+    margin: 0.5cm;
+}
